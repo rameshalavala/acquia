@@ -35,9 +35,6 @@ node {
                      subject: 'project build successful',
                      to: 'ramesh.alavala@ascendum.com'
        }*/
-	    
-	    
-
     }
     catch (err) {
 
