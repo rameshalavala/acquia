@@ -35,6 +35,8 @@ node {
                      subject: 'project build successful',
                      to: 'ramesh.alavala@ascendum.com'
        }*/
+	    
+	    
     }
     catch (err) {
 
@@ -44,7 +46,7 @@ node {
             from: 'ramesh.alavala@gmail.com',
             replyTo: 'ramesh.alavala@ascendum.com',
             subject: 'project build failed',
-            to: 'ramesh.alavala@ascendum.com’
+            to: 'ramesh.alavala@ascendum.comâ€™
             */
         throw err
     }
